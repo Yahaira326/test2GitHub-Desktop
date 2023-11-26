@@ -1,4 +1,4 @@
-# test2GitHub-Desktop
+# Please ignore is test2GitHub-Desktop
 
 Please ignore "Testing GitHub Desktop "
 
